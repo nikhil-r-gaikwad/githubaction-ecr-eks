@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-eks-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js application deployed on Amazon EKS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Student",
+  "license": "MIT"
+}
