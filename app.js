@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
     <html>
       <body>
         <h1>Hello from Node.js on Amazon EKS 🚀</h1>
-        <p>Application is running successfully.</p>
+        <p>Application is running successfully  </p>
         <p>Environment: ${process.env.ENVIRONMENT || "EKS"}</p>
       </body>
     </html>
